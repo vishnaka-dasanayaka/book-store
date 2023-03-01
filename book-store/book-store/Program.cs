@@ -14,8 +14,8 @@ builder.Services.AddSwaggerGen();
 
 
 //inMemory
-builder.Services.AddDbContext<book_store_DbContext>(opt =>
-    opt.UseInMemoryDatabase("book_store_DB"));
+//builder.Services.AddDbContext<book_store_DbContext>(opt =>
+   // opt.UseInMemoryDatabase("book_store_DB"));
 
 var app = builder.Build();
 
