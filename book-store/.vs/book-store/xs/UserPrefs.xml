@@ -5,11 +5,11 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="book-store/book_store_DbContext.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="book-store/Program.cs">
     <Files>
-      <File FileName="book-store/Program.cs" Line="17" Column="2" />
-      <File FileName="book-store/Models/Book.cs" Line="16" Column="1" />
-      <File FileName="book-store/book_store_DbContext.cs" Line="2" Column="23" />
+      <File FileName="book-store/Program.cs" Line="25" Column="22" />
+      <File FileName="book-store/book_store_DbContext.cs" Line="19" Column="1" />
+      <File FileName="book-store/Model/Book.cs" Line="13" Column="2" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -17,7 +17,8 @@
           <Node name="book-store" expanded="True">
             <Node name="book_store" expanded="True">
               <Node name="Dependencies" expanded="True" />
-              <Node name="Models" expanded="True" selected="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Model" expanded="True" />
             </Node>
           </Node>
         </State>
