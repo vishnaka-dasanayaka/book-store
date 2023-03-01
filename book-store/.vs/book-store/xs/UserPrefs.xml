@@ -1,26 +1,28 @@
 ﻿<Properties StartupConfiguration="{C7258189-2037-49C6-8CC1-80F209A37A59}|Default">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.book__store PreferredExecutionTarget="/Applications/Firefox Developer Edition.app" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench ActiveDocument="book-store/Program.cs">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="book-store/book_store_DbContext.cs">
     <Files>
       <File FileName="book-store/Program.cs" Line="17" Column="2" />
+      <File FileName="book-store/Models/Book.cs" Line="16" Column="1" />
+      <File FileName="book-store/book_store_DbContext.cs" Line="2" Column="23" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="book-store" expanded="True">
-            <Node name="book-store" expanded="True">
+            <Node name="book_store" expanded="True">
               <Node name="Dependencies" expanded="True" />
-              <Node name="Controllers" expanded="True" selected="True" />
+              <Node name="Models" expanded="True" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.book-store PreferredExecutionTarget="/Applications/Firefox Developer Edition.app" />
-  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>

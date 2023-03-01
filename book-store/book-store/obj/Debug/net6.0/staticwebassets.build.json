@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "JDKwfl3JjYY2N1ZOJ02QKHBn+Qb6L99gPfYPn0ggdaY=",
-  "Source": "book-store",
-  "BasePath": "_content/book-store",
+  "Hash": "TtZZ/WvxbKH8gfHNSZwjWqQq32tfv9O3tX4bHRbF68E=",
+  "Source": "book_store",
+  "BasePath": "_content/book_store",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
